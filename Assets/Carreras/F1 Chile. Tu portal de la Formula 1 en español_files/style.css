@@ -105,14 +105,3 @@ footer a:hover{
     font-style: italic;
     font-size: 50px;
 }
-.circuito__img{
-    transition: all .2s;
-}
-.circuito__img:hover{
-    transform: scale(1.1);
-}
-
-.bg-form{
-    background-color: red;
-    font-weight: bold;
-}
